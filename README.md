@@ -24,4 +24,4 @@ The following images are the dataframe and descriptive statistics for December.
 ![decemberprecip_df](https://github.com/aarce21/surfs_up/blob/main/Resources/decemberprecip_df.PNG)
 ![december_precip](https://github.com/aarce21/surfs_up/blob/main/Resources/december_precip.PNG)
 
-Both June and December show low levels of precipitation and are very similar to one another. The precipitation data tells us that rainfall throughout the year is fairly consistent and the are does not see a large amount of it. This is great news for the surf and ice cream shop. Between the data for the temperature and the precipitation in June and December, we are able to see that Oahu would be an ideal location for the business. 
+Both June and December show low levels of precipitation and are very similar to one another. The precipitation data tells us that rainfall throughout the year is fairly consistent and the area does not see large amounts of rain. This is great news for the surf and ice cream shop. Between the data for the temperature and the precipitation in June and December, we can see that Oahu would be an ideal location for the business. 
